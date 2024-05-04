@@ -1,0 +1,15 @@
+beautifulsoup4==4.12.3
+certifi==2024.2.2
+cffi==1.15.1
+charset-normalizer==3.3.2
+distlib==0.3.7
+docutils @ file:///private/tmp/docutils-20230831-5903-jytmsf/docutils-0.20.1
+filelock==3.13.0
+idna==3.7
+platformdirs==3.11.0
+pycparser @ file:///private/tmp/pycparser-20230831-5825-v2kl0l/pycparser-2.21
+requests==2.31.0
+six==1.16.0
+soupsieve==2.5
+urllib3==2.2.1
+virtualenv==20.24.6
